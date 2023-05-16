@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/71670060/116963039-97e0e880-ac5c-11eb-96ee-f314fa4f9d1d.gif" width="450" height="400" />
 
-<!--
-**brianhvo02/brianhvo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Brian! 👋
 
-Here are some ideas to get you started:
+- 💻 I'm a software engineer!
+- 💡 I am proficient in Typescript and React.js
+- ❤️ I am proud of my OpenTable clone, [EmptyPlates][emptyplates]
+- ✍ You can find my portfolio site [here][portfolio]
+- 🎮 Need to get somewhere in the SF Bay Area? Use [OnTime Transit][ontime]!
+- :rocket: I’m looking to collaborate on new coding projects
+- ✈️ Fun fact: I love playing flight simulator (X-Plane 12)
+- 📫 You can reach out to me at me@brianhuyvo.com
+- 🔗 Want to connect? Find me on [LinkedIn][linkedin], or on [Wellfound][wellfound]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brianhvo02)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhvo02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhvo02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/brian-huy-vo
+[portfolio]: https://brianhuyvo.com
+[wellfound]: https://wellfound.com/u/brian-vo-10
+[emptyplates]: https://emptyplates.brianhuyvo.com
+[ontime]: https://ontime.brianhuyvo.com

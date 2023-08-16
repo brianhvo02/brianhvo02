@@ -11,7 +11,6 @@
 - 🔗 Want to connect? Find me on [LinkedIn][linkedin], or on [Wellfound][wellfound]
 
 [![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brianhvo02)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianhvo02&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhvo02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/brian-huy-vo
